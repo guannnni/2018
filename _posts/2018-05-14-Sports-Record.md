@@ -7,7 +7,7 @@ tags:
 -Sports
 ---
 
-### A. Introduction of myself
+### Introduction of myself
 
 > 1.height 162cm
 >
@@ -16,7 +16,7 @@ tags:
 > *growing my hair: )
 
 
- ### B. Plan
+ ### Plan
  
  > 1. Choices of exercises:
  >> Rope skipping
@@ -26,7 +26,7 @@ tags:
  >> Anyone of the aboves plus Sit-ups
  > 2. At least 4 times a week (non-menstrual days) and 1 hours once
  
- ### C. Records Table
+ ### Records Table
  
  a. Monthly check for 2018
  
