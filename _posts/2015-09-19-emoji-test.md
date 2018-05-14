@@ -1,6 +1,9 @@
+
 ---
 title: Emoji Test
 tags:
+categories:
+-toturial
 ---
 
 This is an emoji test. :smile: lol.
