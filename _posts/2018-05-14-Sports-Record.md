@@ -1,5 +1,5 @@
 ---
-title:  My Exercise Log ___ my first git-blog try
+title:  My Exercise Log & my first git-blog try
 date: 2018-05-14
 categoties: 
 - Daily Records
@@ -37,7 +37,7 @@ tags:
  |-------:|-----|-----|-----|-----|-----|-----|-----|-----|
  | CHECK | | | | | | | | |
  
- _____________________________________________
+
  
  b. Weekly check 
  
@@ -45,7 +45,6 @@ tags:
  |------|---|---|---|---|
  | CHECK |  |   |   |   |
  
- ____________________________________________
  
  c. Daily check
  
