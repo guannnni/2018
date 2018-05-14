@@ -2,9 +2,9 @@
 title:  My Exercise Log & my first git-blog try
 date: 2018-05-14
 categoties: 
-- Daily Records
+- daily_records
 tags:
--Sports
+- sports
 ---
 
 ### Introduction of myself
