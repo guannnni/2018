@@ -1,4 +1,4 @@
---
+---
 title:  My Exercise Log ___ my first git-blog try
 date: 2018-05-14
 categoties: 
@@ -15,6 +15,7 @@ tags:
 >
 > *growing my hair: )
 
+---
 
 ### Plan
  
@@ -26,6 +27,8 @@ tags:
  >> Anyone of the aboves plus Sit-ups
  > 2. At least 4 times a week (non-menstrual days) and 1 hours once
  
+---
+
 ### Records Table
  
  a. Monthly check for 2018
@@ -39,8 +42,9 @@ tags:
  b. Weekly check 
  
  | WEEK | 1 | 2 | 3 | 4 |
- |--------|---|---|---|---|
- | CHECK | | | | |
+ |------|---|---|---|---|
+ | CHECK |  |   |   |   |
+ 
  ____________________________________________
  
  c. Daily check
