@@ -1,5 +1,5 @@
 # ---------------------------------------------------------------
-# Jekyll & Global Configuration
+# Great thanks to Jekyll & Global Configuration
 ## Docs: https://jekyllrb.com/docs/configuration/
 # ---------------------------------------------------------------
 
@@ -78,7 +78,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "Ly Guan, NexT"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -86,13 +86,13 @@ keywords: "Jekyll, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+#since: 2018
 
 # icon between year and author @Footer
 authoricon: heart
 
 # Footer `powered-by` and `theme-info` copyright
-copyright: true
+copyright: false
 
 # ---------------------------------------------------------------
 # SEO Settings
