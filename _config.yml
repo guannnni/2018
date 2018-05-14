@@ -218,8 +218,7 @@ font:
 
 # Social Links Icons
 # Icon Mapping:
-#   Map a menu item to a specific FontAwesome icon name.
-#   Key is the name of the item and value is the name of FontAwesome icon. Key is case-senstive.
+#   Map a menu item to a specific FontAwesome icon name#   Key is the name of the item and value is the name of FontAwesome icon. Key is case-senstive.
 #   When an globe mask icon presenting up means that the item has no mapping icon.
 social_icons:
   enable: true
@@ -232,7 +231,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar:/assets/images/ggg.png
+# avatar:
 
 
 # Table Of Contents in the Sidebar
