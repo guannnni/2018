@@ -1,5 +1,3 @@
-## a glimpse before traveling
-
 ---
 title: Tips on traveling in Suzhou
 date: 2018-05-15
@@ -8,6 +6,10 @@ categories:
 tags:
 -  travel
 ---
+
+# a glimpse before traveling
+
+
 
 - **Please refer to these two recommendations firstly**<br>---[HOW TO SPEND YOUR TIME VALUEABLELY IN A 3-DAY TRIP IN SUZHOU](http://www.mafengwo.cn/mdd/cityroute/10207_254.html)
 ---[PLACES & FOOD LIST](https://www.zhihu.com/question/26884496/answer/86408966)
