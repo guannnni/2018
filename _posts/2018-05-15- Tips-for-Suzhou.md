@@ -2,9 +2,9 @@
 title: Tips for Suzhou
 date: 2018-05-15
 categories: 
--  life
+- life
 tags:
--  travel
+- travel
 ---
 
 ### a glimpse before traveling
