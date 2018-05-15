@@ -9,9 +9,7 @@ tags:
 
 ### a glimpse before traveling
 
-
-
-- **Please refer to these two recommendations firstly**<br>---[HOW TO SPEND YOUR TIME VALUEABLELY IN A 3-DAY TRIP IN SUZHOU](http://www.mafengwo.cn/mdd/cityroute/10207_254.html)
+- **Please refer to these two recommendations firstly**<br>---[HOW TO SPEND YOUR TIME VALUEABLELY IN A 3-DAY TRIP IN SUZHOU](http://www.mafengwo.cn/mdd/cityroute/10207_254.html)<br>
 ---[PLACES & FOOD LIST](https://www.zhihu.com/question/26884496/answer/86408966)
 
 - **Personal Must-see Spots List**
@@ -27,11 +25,11 @@ tags:
  6. Yangcheng Lake(阳澄湖)；
  7. Zhou Garden(周庄);
 
->**Nearby Spots**
-> 1-2
-> 3
-> 4-2'-5 
-> 7-6
+>**Nearby Spots**<br>
+> 1-2<br>
+> 3<br>
+> 4-2'-5 <br>
+> 7-6<br>
 
 - **Other Local places**
 
