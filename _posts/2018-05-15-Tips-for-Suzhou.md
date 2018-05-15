@@ -1,5 +1,5 @@
 ---
-title: Tips on traveling in Suzhou
+title: Tips for Suzhou
 date: 2018-05-15
 categories: 
 -  life
