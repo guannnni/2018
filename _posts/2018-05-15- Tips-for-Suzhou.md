@@ -7,16 +7,16 @@ tags:
 - travel
 ---
 
-### a glimpse before traveling
+a glimpse before traveling
 
-- **Please refer to these two recommendations firstly**
+### - **Please refer to these two recommendations firstly**
 
 ---[HOW TO SPEND YOUR TIME VALUEABLELY IN A 3-DAY TRIP IN SUZHOU](http://www.mafengwo.cn/mdd/cityroute/10207_254.html)
 
 ---[PLACES & FOOD LIST](https://www.zhihu.com/question/26884496/answer/86408966)
 
 
-- **Personal Must-see Spots List**
+### - **Personal Must-see Spots List**
 
  |No.|Spots|WHY I'M INTERESTED IN| Opening Hours| Position| Booking | Cost| Time required|
  |:--:|:----:|:----:| :-----:|:---:|:---:|:---:|:---:|
