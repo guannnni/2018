@@ -9,7 +9,7 @@ tags:
 
 a glimpse before traveling
 
-### - **Please refer to these two recommendations firstly**
+### - **Please refer to the following links firstly**
 
 ---[HOW TO SPEND YOUR TIME VALUEABLELY IN A 3-DAY TRIP IN SUZHOU](http://www.mafengwo.cn/mdd/cityroute/10207_254.html)
 
@@ -40,5 +40,5 @@ a glimpse before traveling
  |No.|Spots|WHY I'M INTERESTED IN| Opening Hours| Position| Booking | Cost| Time required|
  |:--:|:----:|:----:| :-----:|:-------:|:---:|:---:|:---:|
  |1'|**Tongli Town(同里古镇)**|sleep beside the river ;hang around casully| always|bus-平江路;<br>underground-相门/临顿路|100 for 2 days|depends|a night best|
- |2'|**7-mile Shantang(七里山塘)**|night scene| always |bus-山塘街;<br>underground -虎丘山门/虎阜桥|[guide link](http://www.shantang.com.cn/)|Spots-45|depends|2-3 hours|
+ |2'|**7-mile Shantang(七里山塘)**|night scene| always |bus-山塘街;<br>underground -虎丘山门/虎阜桥|[guide link](http://www.shantang.com.cn/)|Spots-45|2-3 hours|
 
