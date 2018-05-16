@@ -9,7 +9,7 @@ tags:
 
 a glimpse before traveling
 
-### - **Please refer to these two recommendations firstly**
+### - **Please refer to the following links firstly**
 
 ---[HOW TO SPEND YOUR TIME VALUEABLELY IN A 3-DAY TRIP IN SUZHOU](http://www.mafengwo.cn/mdd/cityroute/10207_254.html)
 
