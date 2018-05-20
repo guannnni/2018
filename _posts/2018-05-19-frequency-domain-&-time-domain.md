@@ -64,6 +64,6 @@ This is study note of [this page](http://www.doc88.com/p-1476519575199.html).
 
        ---- **the more sampling points we have, a more similar time-domain signal we could reshow after IFFT**
 
-     - the longer time we sampling, the higher frequency resolution we will get in spectrum.
+    - the longer time we sampling, the higher frequency resolution we will get in spectrum.
 
        ---- normally, due to real-time processing needs, we could extend the original signal by **adding 0s** at the end of the recorded data to increase **frequency resolution**
