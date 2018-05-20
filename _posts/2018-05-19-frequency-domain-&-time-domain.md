@@ -1,12 +1,11 @@
 ---
-title: 2018-05-19-frequency domain & time domain
+title: frequency domain(F-D) & time domain(T-D)
 categories:
  - research_study
 tags:
  - DFT
 ---
 
-### frequency domain(F-D) & time domain(T-D)
 
 This is study note of [this page](http://www.doc88.com/p-1476519575199.html).
 
