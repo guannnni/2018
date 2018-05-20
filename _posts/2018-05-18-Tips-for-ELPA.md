@@ -13,7 +13,7 @@ tags:
 
 
 
-###Aim & Standard of ELPA
+### Aim & Standard of ELPA
 
 ELPA Speaking Test is held in the 1st semester for PGs (23 Jan. 2018 for last year), and will need online-registration before then (11 Jan. 2018 for last year). With scores below Level 4 of **any** assessments' criteria (4 in total), students will have to take LANG5000 and not be allowed to take up teaching duties.
 
