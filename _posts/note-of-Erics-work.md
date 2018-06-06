@@ -7,9 +7,13 @@ Tags:
 - randomwalk
 ---
 
+
+
 ##content
 
 Observe quasi-two-dimensional *levy flight* in a rotating tank filled with water under 2 modes---coherent structure (vortices & jets); non-coherent structures(weakly turbulent). And discuss the theory link the random flight $PDF$ with anomalous diffusion exponent $\gamma$.
+
+
 
 ##intro
 
@@ -25,7 +29,7 @@ Observe quasi-two-dimensional *levy flight* in a rotating tank filled with water
 
 3. History & sort & examples of Levy flights
 
-   ​     **   Note that Levy flight is self-similar 
+     **   Note that Levy flight is self-similar 
 
 4. Math base of Brownian motion---Central Limit Theorem
 
