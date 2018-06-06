@@ -9,13 +9,13 @@ Tags:
 
 
 
-##content
+## content
 
 Observe quasi-two-dimensional *levy flight* in a rotating tank filled with water under 2 modes---coherent structure (vortices & jets); non-coherent structures(weakly turbulent). And discuss the theory link the random flight $PDF$ with anomalous diffusion exponent $\gamma$.
 
 
 
-##intro
+## intro
 
 1. Brownian motion & Levy flights
 
